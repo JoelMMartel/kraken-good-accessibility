@@ -128,12 +128,13 @@ nav a:focus {
 }
 
 .icon svg {
-  left: 1rem;
+  left: 0;
   height: 100%;
   position: absolute;
   top: 0;
   width: 100%;
   fill: currentColor;
+  padding: .5rem;
 }
 
 nav i {
